@@ -26,7 +26,8 @@
 |[从零开始nodejs系列文章](http://blog.fens.me/series-nodejs/)|[Front-End-Develop-Guide 前端开发指南](https://github.com/icepy/Front-End-Develop-Guide)|
 |[w3ctech](https://www.w3ctech.com/)|[前端开发者指南 👍](https://love2.io/)|
 |[前端外刊 👍👍](https://qianduan.group/posts?page=3)|[知乎上有哪些在前端开发领域的高质量回答？](https://www.zhihu.com/question/20246142)|
-|[]()|[前端收藏夹--最完整 👍👍👍](http://www.alloyteam.com/nav/)|
+|[javascript标准教程 👍👍👍](http://javascript.ruanyifeng.com/)|[前端收藏夹--最完整 👍👍👍](http://www.alloyteam.com/nav/)|
+|[ECMAScript 6 入门 👍👍👍](http://es6.ruanyifeng.com/#docs/promise)|[移动端收集 👍👍](www.cnblogs.com/PeunZhang/p/3407453.html#api_slide)|
 
 ## 常用在线工具
 | tool | tool |

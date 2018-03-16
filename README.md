@@ -23,4 +23,16 @@
 > * ***P***：阮一峰标准教程/es6、vue官网新特性
 > * ***O***：js笔记、vue使用技巧文章
 
+ **总结** `Input(学习)`
+
+| Input | Output |
+| --------- | --------- |
+| [JavaScript 标准参考教程](http://javascript.ruanyifeng.com/)|[《VUE-编码规范》](https://github.com/wasdokij/2018IPO/blob/master/skill/vue)|
+|[ECMAScript 6 入门](http://es6.ruanyifeng.com/)|[《前端收藏夹》](http://bookmark.langok.com/)|
+|[从达标到卓越 -- API 设计之道](http://taobaofed.org/blog/2017/02/16/a-guide-to-api-design/)|[]()|
+|[VUE官网API and 风格指南](https://cn.vuejs.org/v2/style-guide/)|[]()|
+| [一个前端的自我修养](http://taobaofed.org/blog/2016/03/23/the-growth-of-front-end/)|[]()|
+|[RESTful API 设计指南](http://www.ruanyifeng.com/blog/2014/05/restful_api.html)|[]()|
+|[知乎 -- JavaScript 学习指南 (2018版)](https://zhuanlan.zhihu.com/p/33298555)|[]()|
+|[segmentfault -- web前端学习资源(JavaScript)](https://segmentfault.com/a/1190000010880049#articleHeader4)|[]()|
 

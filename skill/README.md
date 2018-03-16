@@ -6,7 +6,17 @@
 |[CSS样式解决方案 --动画 - 代码库](http://nec.netease.com/library/category/#animation)|[编写现代 CSS 代码的 20 个建议](https://segmentfault.com/a/1190000006834519)|
 |[再谈自适应垂直居中👍](https://juejin.im/post/586b94e5ac502e12d62d4ab6)|[10个有趣的Javascript和CSS库](https://www.helloweba.com/view-blog-436.html?utm_source=tuicool&utm_medium=referral)|
 |[移动前端知识总结](http://caibaojian.com/mobile-knowledge.html)|[你所不知道的 CSS 技巧与细节👍](http://www.cnblogs.com/coco1s/)|
-|[SASS入门教程](http://www.w3cplus.com/sassguide/)|
+|[SASS入门教程](http://www.w3cplus.com/sassguide/)|[30 秒就能理解的 css 代码片段 👍👍](https://atomiks.github.io/30-seconds-of-css/)|
+
+
+
+## javascript
+| Course | Article |
+| --------- | --------- |
+|[javascript标准教程 👍👍👍](http://javascript.ruanyifeng.com/)|[30 秒就能理解的 JavaScript 代码片段 👍👍](http://www.css88.com/30-seconds-of-code/)|
+|[ECMAScript 6 入门 👍👍👍](http://es6.ruanyifeng.com/#docs/promise)|[Airbnb JavaScript 风格指南 👍👍👍](https://github.com/yuche/javascript)|
+|[轻量高效的开源JavaScript插件和库](https://github.com/jaywcjlove/handbook/blob/master/Javascript/%E8%BD%BB%E9%87%8F%E9%AB%98%E6%95%88%E7%9A%84%E5%BC%80%E6%BA%90JavaScript%E6%8F%92%E4%BB%B6%E5%92%8C%E5%BA%93.md#%E5%9B%BE%E7%89%87 👍👍👍)|[从1万篇文章中挑出的40篇最棒的 JavaScript 学习指南（2018版）👍👍](https://zhuanlan.zhihu.com/p/33298555)|
+
 
 ## VUE
 | Article | Article |
@@ -26,8 +36,13 @@
 |[从零开始nodejs系列文章](http://blog.fens.me/series-nodejs/)|[Front-End-Develop-Guide 前端开发指南](https://github.com/icepy/Front-End-Develop-Guide)|
 |[w3ctech](https://www.w3ctech.com/)|[前端开发者指南 👍](https://love2.io/)|
 |[前端外刊 👍👍](https://qianduan.group/posts?page=3)|[知乎上有哪些在前端开发领域的高质量回答？](https://www.zhihu.com/question/20246142)|
-|[javascript标准教程 👍👍👍](http://javascript.ruanyifeng.com/)|[前端收藏夹--最完整 👍👍👍](http://www.alloyteam.com/nav/)|
-|[ECMAScript 6 入门 👍👍👍](http://es6.ruanyifeng.com/#docs/promise)|[移动端收集 👍👍](www.cnblogs.com/PeunZhang/p/3407453.html#api_slide)|
+|[]()|[前端收藏夹--最完整 👍👍👍](http://www.alloyteam.com/nav/)|
+|[]()|[移动端收集 👍👍](www.cnblogs.com/PeunZhang/p/3407453.html#api_slide)|
+|[]()|[Front-End-Develop-Guide 前端开发指南 👍👍](https://github.com/icepy/Front-End-Develop-Guide)|
+
+
+
+
 
 ## 常用在线工具
 | tool | tool |
@@ -46,3 +61,9 @@
 |[神注释大全- 简书](http://www.jianshu.com/p/bd1f551a1915)|[localStorage和sessionStorage 扩展](https://github.com/wasdokij/web-storage-cache)|
 |[精品Mac应用分享推荐 - Awesome Mac 👍👍👍](http://wangchujiang.com/awesome-mac/index.zh.html)|[蚂蚁数据可视化](https://antv.alipay.com/index.html)|
 |[]()|[ELF - HTML5 构建工具  html5制作](https://elf.aotu.io/)|
+
+## 鸡汤
+| Article | Article |
+| --------- | --------- |
+|[一个前端的自我修养](http://taobaofed.org/blog/2016/03/23/the-growth-of-front-end/)|[]()|
+

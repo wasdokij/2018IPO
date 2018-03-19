@@ -15,7 +15,7 @@
 | --------- | --------- |
 |[javascript标准教程 👍👍👍](http://javascript.ruanyifeng.com/)|[30 秒就能理解的 JavaScript 代码片段 👍👍](http://www.css88.com/30-seconds-of-code/)|
 |[ECMAScript 6 入门 👍👍👍](http://es6.ruanyifeng.com/#docs/promise)|[Airbnb JavaScript 风格指南 👍👍👍](https://github.com/yuche/javascript)|
-|[轻量高效的开源JavaScript插件和库](https://github.com/jaywcjlove/handbook/blob/master/Javascript/%E8%BD%BB%E9%87%8F%E9%AB%98%E6%95%88%E7%9A%84%E5%BC%80%E6%BA%90JavaScript%E6%8F%92%E4%BB%B6%E5%92%8C%E5%BA%93.md#%E5%9B%BE%E7%89%87 👍👍👍)|[从1万篇文章中挑出的40篇最棒的 JavaScript 学习指南（2018版）👍👍](https://zhuanlan.zhihu.com/p/33298555)|
+|[轻量高效的开源JavaScript插件和库 👍👍👍](https://github.com/jaywcjlove/handbook/blob/master/Javascript/%E8%BD%BB%E9%87%8F%E9%AB%98%E6%95%88%E7%9A%84%E5%BC%80%E6%BA%90JavaScript%E6%8F%92%E4%BB%B6%E5%92%8C%E5%BA%93.md#%E5%9B%BE%E7%89%87 )|[从1万篇文章中挑出的40篇最棒的 JavaScript 学习指南（2018版）👍👍](https://zhuanlan.zhihu.com/p/33298555)|
 
 
 ## VUE
